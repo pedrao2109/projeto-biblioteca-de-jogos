@@ -9,7 +9,6 @@ O objetivo principal é você cadastrar os jogos que você gosta de jogar.
 - Cadastro e edição de jogos com informações detalhadas
 - Registro de usuários e controle de empréstimos
 - Busca e filtragem de jogos disponíveis
-- Histórico de empréstimos e devoluções
 - Interface amigável e fácil de usar
 
 ## Objetivos
